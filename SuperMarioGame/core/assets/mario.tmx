@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
+    <tileset firstgid="1" source="../../tileset geras.tsx"/>
+    <layer id="1" name="Background" width="240" height="13">
+        <data encoding="base64" compression="zlib">
+            eAHt0jENAAAMw7Bq/Bn3KYp9PkIgci+pPGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggIFHAwMvgAwl
+        </data>
+    </layer>
+    <layer id="3" name="graphics" width="240" height="13">
+        <data encoding="base64" compression="zlib">
+            eAHt0sEJAAAIAkDbf+kaok9xgn85TIQAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQI3BGpm6h+DG6+zckugAXuXAHU=
+        </data>
+    </layer>
+    <objectgroup id="4" name="ground"/>
+    <objectgroup id="5" name="bricks"/>
+    <objectgroup id="6" name="pipes"/>
+    <objectgroup id="7" name="Object Layer 4"/>
+</map>
